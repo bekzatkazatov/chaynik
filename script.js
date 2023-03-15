@@ -38,11 +38,11 @@
 // let b = a.join()
 // console.log (b)
 
-let a = 'КаЖдЫй ОхОтНиК'
- const change = (a) => {
-    return [...a].map(item => item === item.toUpperCase() ? item.toLowerCase() : item.toUpperCase()).join('')
- }
-console.log (change(a))
+// let a = 'КаЖдЫй ОхОтНиК'
+//  const change = (a) => {
+//     return [...a].map(item => item === item.toUpperCase() ? item.toLowerCase() : item.toUpperCase()).join('')
+//  }
+// console.log (change(a))
 
 
 // let arr1 = [1, 2, 3, 4, 5];
